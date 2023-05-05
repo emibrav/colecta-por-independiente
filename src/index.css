@@ -4,17 +4,11 @@
 
 body {
   font-family: "Alatsi", sans-serif;
-  /* font-family: "Mochiy Pop One", sans-serif; */
-  /* font-family: "Noto Sans Kannada", sans-serif; */
   margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background-image: url("https://es.logodownload.org/wp-content/uploads/2018/10/independiente-logo-0.png"); */
   background-color: rgb(255, 0, 0);
-  min-width: 320px;
-  min-height: 100vh;
-  background-size: 50px 50px;
 }
 
 h1 {

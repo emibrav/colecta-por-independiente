@@ -6,12 +6,12 @@ function App() {
 
   return (
     <>
-      <div className='h-screen flex flex-col justify-between items-center py-10'>
-        <div className=' h-3/6 flex flex-col items-center justify-center'>
+      <div className='h-screen flex flex-col justify-between items-center'>
+        <div className=' h-full  flex flex-col items-center justify-center'>
           <img
             src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Escudo_del_Club_Atl%C3%A9tico_Independiente.svg/800px-Escudo_del_Club_Atl%C3%A9tico_Independiente.svg.png'
             alt=''
-            className='w-48 h-48'
+            className='w-40 h-40'
           />
           <p className=' text-center text-xl text-white mb-5'>
             ¿Cuánto va la colecta de Santi Maratea por Independiente?

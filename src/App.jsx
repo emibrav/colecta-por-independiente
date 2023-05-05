@@ -9,7 +9,7 @@ function App() {
       <div className='h-screen flex flex-col justify-between items-center py-6'>
         <div className=' h-3/6 flex flex-col items-center justify-center'>
           <img
-            src='src/assets/independiente-logo.png'
+            src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Escudo_del_Club_Atl%C3%A9tico_Independiente.svg/800px-Escudo_del_Club_Atl%C3%A9tico_Independiente.svg.png'
             alt=''
             className='w-48 h-48'
           />

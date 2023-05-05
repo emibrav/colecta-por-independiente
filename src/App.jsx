@@ -35,7 +35,7 @@ function App() {
             Ult. actualización: 04/05/2023 00:01 hs
           </p>
           <a
-            href='src/assets/independiente-logo.png'
+            href='https://www.mercadopago.com.ar/checkout/v1/payment/redirect/d883895d-cddb-4f74-be0c-4f4b714a0213/review/?source=link&preference-id=1361289702-5bc1c9f6-be1e-426c-adbb-e86b115a725e&router-request-id=c27dcaae-7b44-4908-8662-a64c4220a6ae&p=87000e464d9f40cb0886119123a1c165'
             target='_blank'
             className='mt-8 font-bold flex flex-col items-center text-white underline text-white'
             rel='noreferrer'

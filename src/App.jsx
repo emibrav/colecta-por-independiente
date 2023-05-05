@@ -9,7 +9,7 @@ function App() {
       <div className='h-screen flex flex-col justify-between items-center py-6'>
         <div className=' h-3/6 flex flex-col items-center justify-center'>
           <img
-            src='https://es.logodownload.org/wp-content/uploads/2018/10/independiente-logo-0.png'
+            src='src/assets/independiente-logo.png'
             alt=''
             className='w-48 h-48'
           />
